@@ -1,3 +1,5 @@
+//참고 자료 : 10/4 라이브코딩 1931번 해설
+
 #include <iostream>
 #include <queue>
 #include <vector>
